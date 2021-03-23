@@ -1,4 +1,5 @@
 total 104
+modificato
 drwxr-xr-x  7 fandreani     fandreani     4096 Mar 16 14:45 andreani
 drwxr-xr-x  5 abianchi      abianchi      4096 Mar  9 14:18 bianchi
 drwxr-xr-x  8 mbuccioni     mbuccioni     4096 Mar 16 14:35 buccioni_mattia
